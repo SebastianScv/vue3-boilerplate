@@ -1,0 +1,10 @@
+{
+    "parser": "vue-eslint-parser",
+    "parserOptions": {
+        "ecmaVersion": 2020,
+        "sourceType": "module",
+        "babelOptions": {
+            "configFile": "./babel.config.js"
+        }
+    }
+}
